@@ -20,6 +20,7 @@ Submit a link below to this [file](https://github.com/TheOdinProject/curriculum/
 
 * Add your solution below this line!
 * [Coding Shawn's Solution](https://github.com/CodingShawn/TOP-Ruby-Tic-Tac-Toe)
+* [Sparks's Solution](https://github.com/Sparking2/Ruby_Practicing/tree/master/POO/tick-tack-toe)
 * [Eduardo's Solution](https://github.com/helloeduardo/tic_tac_toe) - [View in repl.it](https://repl.it/@helloeduardo/tictactoe#tic_tac_toe.rb)
 * [Omar Al-Masri's Solution](https://github.com/Omarmasri-91/TicTacToe)
 * [lrdvnz's Solution](https://github.com/LrdVnz/rubyBuildingBlocks/tree/master/mastermind)
@@ -417,6 +418,7 @@ Submit a link below to this [file](https://github.com/TheOdinProject/curriculum/
 
 * Add your solution below this line!
 * [Coding Shawn's Solution (Computer has 68% win rate over 100000 games)](https://github.com/CodingShawn/TOP-Ruby-Mastermind)
+* [Spark's Solution](https://github.com/Sparking2/Ruby_Practicing/tree/master/Mastermind)
 * [Tilda Udufo's Solution](https://github.com/TildaDares/mastermind)
 * [Axel Lopez's Solution](https://github.com/lopezaxel/mastermind)
 * [Aaron Contreras's Solution](https://github.com/aaron-contreras/mastermind) - [View in repl.it](http://mastermind.aaroncontreras.repl.run/)
